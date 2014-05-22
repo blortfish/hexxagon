@@ -1,0 +1,15 @@
+.login-page {
+  .registration-error {
+    color: red;
+    font-weight: 700;
+  }
+  .successful-register {
+    font-weight: 700;
+    font-size: 110%;
+  }
+  label {
+    display: block;
+    width: 270px;
+    margin: 8px 0;
+  }
+}

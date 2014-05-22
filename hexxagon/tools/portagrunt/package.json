@@ -1,0 +1,14 @@
+{
+  "name": "igm-grunt-package",
+  "description": "Used to compile sass/ minify",
+  "author": "Daniel Flint <def6054@rit.edu>",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt-contrib-sass": "0.5.0",
+    "grunt-contrib-cssmin": "0.6.1",
+    "grunt": "~0.4.0",
+	"grunt-contrib-uglify": "~0.3.0",
+	"grunt-contrib-concat": "~0.4.0"
+  },
+  "engine": "node >= 0.10.0"
+}

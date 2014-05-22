@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1" baseProfile="full" width="600px" height="500px">
+		
+	<!-- take a quick read:  http://jwatt.org/svg/authoring/ -->
+		
+	<!--Your SVG content goes here -->
+	<!--basic primitives-->
+	<rect x="0px" y="0px" width="289px" height="289px" fill="green" stroke-width="5px" stroke="#990000"/>
+	
+	<line x1="427px" y1="65px" x2="397px" y2="200px" stroke="rgb(200,0,255)" stroke-width="9px"/>
+	
+	<circle cx="220px" cy="163px" r="89px" fill="orange" stroke="red" stroke-width="25px" opacity="0.3"/>
+	
+	<ellipse cx="260px" cy="363px" rx="180px" ry="30px" fill="#939" stroke="#f03" stroke-width="15px"/>
+	
+	<polyline points="223,123 276,213 171,213" fill="#990" stroke="#003" stroke-width="5px"/>
+	
+	<polygon points="323,223 376,313 271,313" fill="#990" stroke="#003" stroke-width="5px"/>
+	
+	<!-- big, bad assed path tag-->
+	<!--
+		d below if for 'data'
+		M below is for 'Move To' (abs - m is for rel)
+		C below is for 'Curve To' (abs - c is for relative)
+		z below is for 'Close path'
+	-->
+	<path d="M100,300 C25,200 475,200 400,300 z" fill="none" stroke="#0ff" stroke-width="15px"/>
+	
+	<image xlink:href="pic.jpg" x="100px" y="100px" height="100px" width="100"/>
+	
+	<!--reuse!!!-->
+	<defs>
+		<rect id="myRect" width="10px" height="10px" fill="#339900"/>
+		<g id="myGroup">
+			<circle r="8px" fill="orange"/>
+			<rect width="15px" height="15px" fill="orange"/>
+		</g>
+	</defs>
+	
+	<use x="400px" y="20px" xlink:href="#myRect"/>
+	<use x="400px" y="50px" xlink:href="#myRect"/>
+	
+	<use xlink:href="#myGroup" x="450px" y="20px"/>
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
