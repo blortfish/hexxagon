@@ -1,0 +1,58 @@
+.in-game{
+  display: inline-block;
+}
+.chat-window__wrapper {
+  font-family: "Oxygen", serif;
+  display: inline-block;
+  width: 49%;
+
+  .in-game & {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    margin-top: -125px;
+  }
+
+  .chat-wrap.input-wrap {
+    display: inline-block;
+    vertical-align: middle;
+    width: 70%;
+  }
+  .chat-wrap.button-wrap {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+  }
+  #chat-window__input--text {
+    resize: none;
+    width: 96%;
+  }
+  .chat-window__content {
+    height: 200px;
+    overflow-y: hidden;
+    background: #fff;
+    margin: 0 20px 5px 0;
+    border: 1px solid rgb(169, 169, 169);
+    &:hover {
+      overflow-y: scroll;
+    }
+  }
+  .chat-window__message {
+    padding: 3px 0;
+    margin: 2px;
+    .chat-window__timestamp {
+      display: block;
+      font-size: 10px;
+      font-weight: 500;
+      text-transform: uppercase;
+      color: #aaa;
+    }
+    .chat-window__username {
+      margin-left: 5px;
+      font-weight: 700;
+    }
+    .chat-window__message {
+
+    }
+  }
+}
