@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd47a392-90a3-4987-8b48-7f701e1450d8" name="Default" comment="" />
+    <list default="true" id="fd47a392-90a3-4987-8b48-7f701e1450d8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/03f5d5e49f449b41360ac2237360a6d5d3d49d18/_index.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/03f5d5e49f449b41360ac2237360a6d5d3d49d18/button.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/03f5d5e49f449b41360ac2237360a6d5d3d49d18/scrollbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/07267e489a7907c7eded249c7cede20e491c3701/_index.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/07267e489a7907c7eded249c7cede20e491c3701/login-register.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/27a178fab43ae8ac70cbee580ab408c8adcea28e/_index.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/27a178fab43ae8ac70cbee580ab408c8adcea28e/board.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/417df917517c5ac37d00725ce5b7732b2905be1b/_index.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/417df917517c5ac37d00725ce5b7732b2905be1b/animate.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/417df917517c5ac37d00725ce5b7732b2905be1b/normalize.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/b16c12bc905de89dba1e3fda509c7dc9d091e529/general.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/b16c12bc905de89dba1e3fda509c7dc9d091e529/index.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_bordered-pulled.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_core.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_fixed-width.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_icons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_larger.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_list.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_path.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_rotated-flipped.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_spinning.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_stacked.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/c5ed68e7104300d7c845ffb49d5d232f068e0639/font-awesome.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/cf88edaf51aa23f8f90affddf9942548a4663f8b/_index.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/cf88edaf51aa23f8f90affddf9942548a4663f8b/chat-main.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/fc157fdc995fa2e43fa4dea229d2a861869a3502/_index.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/fc157fdc995fa2e43fa4dea229d2a861869a3502/footer.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/fc157fdc995fa2e43fa4dea229d2a861869a3502/header.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/portagrunt/.sass-cache/fc157fdc995fa2e43fa4dea229d2a861869a3502/online-players.scssc" afterPath="" />
+    </list>
     <ignored path="Web App Dev.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,11 +55,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Tok.class.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tok.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build/utilities/Tok.class.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
               <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -38,6 +81,16 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -105,131 +158,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Web App Dev" />
+              <option name="myItemId" value="hexxagon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Web App Dev" />
+              <option name="myItemId" value="hexxagon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hexxagon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web App Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexxagon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web App Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexxagon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utilities" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web App Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexxagon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web App Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexxagon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="general" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web App Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexxagon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_services" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web App Dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexxagon" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_data" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -252,6 +197,7 @@
     <property name="LayoutCode.rearrangeEntriesXML" value="false" />
     <property name="LayoutCode.rearrangeEntries" value="false" />
     <property name="SearchEverywhereHistory" value="(```&#10;[" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -303,6 +249,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -353,11 +305,12 @@
       <option name="presentableId" value="Default" />
       <updated>1392148057939</updated>
       <workItem from="1460730406691" duration="543000" />
+      <workItem from="1460739005346" duration="60000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="543000" />
+    <option name="totallyTimeSpent" value="603000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -381,15 +334,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3839" y="-366" width="1831" height="1006" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22750139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22694242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5464646" sideWeight="0.19694656" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -428,7 +381,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hexxagon/trunk/src/assets/scss/general.scss" />
     <entry file="file://$PROJECT_DIR$/hexxagon/tools/portagrunt/Gruntfile.js" />
     <entry file="file://$PROJECT_DIR$/hexxagon/trunk/src/assets/js/lib/modernizr.min.js" />
     <entry file="file://$PROJECT_DIR$/hexxagon/trunk/src/assets/js/lib/jquery-1.11.0.min.js" />
@@ -470,7 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -478,12 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <marker date="1460729884000" expanded="true" signature="366:562" placeholder="SELECT usern... " />
-            <marker date="1460729884000" expanded="true" signature="793:964" placeholder="SELECT usern... " />
-            <marker date="1460729884000" expanded="true" signature="1521:1640" placeholder="INSERT INTO hex_chat... " />
-            <marker date="1460729884000" expanded="true" signature="1833:1946" placeholder="SELECT times... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -491,7 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -499,7 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -507,7 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -515,7 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -523,7 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -531,7 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -547,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -555,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -563,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -571,6 +506,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
